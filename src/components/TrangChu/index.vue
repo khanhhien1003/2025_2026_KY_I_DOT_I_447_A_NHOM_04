@@ -145,11 +145,11 @@
             <div id="carouselExampleInterval" class="carousel slide" data-bs-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active" data-bs-interval="5000">
-                        <img src="https://media3.scdn.vn/img4/2024/05_27/dDa9zFdhNGLy0Q6ry7NH.jpg" class="d-block w-100"
+                        <img src="../../assets/images/1.jpg" class="d-block w-100"
                             alt="...">
                     </div>
                     <div class="carousel-item" data-bs-interval="5000">
-                        <img src="https://media3.scdn.vn/img4/2024/05_15/uyp3VbcdvROBqhxCJykY.jpg" class="d-block w-100"
+                        <img src="../../assets/images/2.jpg" class="d-block w-100"
                             alt="...">
                     </div>
                 </div>
