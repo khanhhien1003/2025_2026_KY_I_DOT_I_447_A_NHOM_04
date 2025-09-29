@@ -98,7 +98,7 @@
                     </div>
                     <div class="modal-footer">
                         <button v-if="is_them_moi == 0" class="btn btn-danger" disabled>Thêm Mới</button>
-                        <button v-else v-on:click="themMoiDaiLy()" class="btn btn-primary">Thêm Mới</button>
+                        <button v-else v-on:click="themMoiDaiLy()" class="btn btn-primary" data-bs-dismiss="modal">Thêm Mới</button>
                     </div>
                 </div>
             </div>
