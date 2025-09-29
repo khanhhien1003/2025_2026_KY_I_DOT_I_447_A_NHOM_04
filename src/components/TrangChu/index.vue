@@ -58,6 +58,7 @@
     <div class="row mt-5">
         <div class="col-lg-12 col-md-12">
             <div class="row">
+                <div class="col-1"></div>
                 <template v-for="(value, index) in list_danh_muc" :key="index">
                     <div class="col-lg-2 mb-2 d-flex">
                         <div class="card flex-fill">
@@ -113,7 +114,7 @@
                                             <div class="d-flex align-items-center fs-6">
                                                 <div class="cursor-pointer">
                                                     <template v-for="items in value.sao_danh_gia" :key="items">
-                                                      <i class="fa-solid fa-star"></i>
+                                                      <i class="fa-solid fa-star text-warning"></i>
                                                     </template>
                                                     <template v-for="items in (5 - value.sao_danh_gia)" :key="items">
                                                         <i class="fa-regular fa-star"></i>
@@ -201,10 +202,10 @@
                                             <div class="d-flex align-items-center fs-6">
                                                 <div class="cursor-pointer">
                                                     <template v-for="items in value.sao_danh_gia" :key="items">
-                                                        <i class="bx bxs-star text-warning"></i>
+                                                      <i class="fa-solid fa-star text-warning"></i>
                                                     </template>
                                                     <template v-for="items in (5 - value.sao_danh_gia)" :key="items">
-                                                        <i class="bx bxs-star text-secondary"></i>
+                                                        <i class="fa-regular fa-star"></i>
                                                     </template>
                                                 </div>
                                                 <p class="mb-0 ms-auto">4.2(182)</p>
