@@ -79,9 +79,9 @@
             </div>
         </div>
     </div>
-    <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-3 row-cols-xl-4 row-cols-xxl-6 product-grid">
+    <div class="row ">
         <template v-for="(value, index) in sxandgido" :key="index">
-            <div class="col-2 d-flex">
+            <div class="col-lg-3 d-flex">
                 <div class="card flex-fill">
                     <img v-bind:src="value.hinh_anh" class="card-img-top "
                         style="    width: 100%; height: 230px; object-fit: contain; vertical-align: middle;" alt="...">
@@ -106,7 +106,7 @@
                             <div class="d-flex align-items-center fs-6">
                                 <div class="cursor-pointer">
                                     <template v-for="items in value.sao_danh_gia" :key="items">
-                                        <i class="fa-solid fa-star"></i>
+                                        <i class="fa-solid fa-star text-warning"></i>
                                     </template>
                                     <template v-for="items in (5 - value.sao_danh_gia)" :key="items">
                                         <i class="fa-regular fa-star"></i>
