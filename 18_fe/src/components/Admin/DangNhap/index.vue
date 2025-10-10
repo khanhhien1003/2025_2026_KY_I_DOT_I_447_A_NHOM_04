@@ -4,7 +4,7 @@
             <div class="row row-cols-1 row-cols-lg-2 row-cols-xl-2">
                 <div class="col mx-auto">
                     <div class="my-4 text-center">
-                        <img src="https://dzfullstack.com/assets/images/logo-img.png" width="180" alt="" />
+                        <img src="https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-cb54-622f-91fc-832ea8b509df/raw?se=2025-09-30T16%3A25%3A39Z&sp=r&sv=2024-08-04&sr=b&scid=42040613-f1c3-5a2b-a3d2-b848c61709e5&skoid=0b778285-7b0b-4cdc-ac3b-fb93e8c3686f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-09-30T12%3A29%3A03Z&ske=2025-10-01T12%3A29%3A03Z&sks=b&skv=2024-08-04&sig=wkaWy4um7E3Sh3QNEcgND1hx8hYRpW7K38NTkjezgNM%3D" width="180" alt="" />
                     </div>
                     <div class="card">
                         <div class="card-body">

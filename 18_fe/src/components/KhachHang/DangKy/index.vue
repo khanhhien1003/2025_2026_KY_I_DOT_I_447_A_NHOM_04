@@ -7,7 +7,7 @@
             <!-- Logo container -->
             <div class="logo-wrapper">
               <img
-                src="https://sdmntprwestus2.oaiusercontent.com/files/00000000-36b4-61f8-88a1-fb5aae2cf469/raw?se=2025-07-29T04%3A38%3A17Z&sp=r&sv=2024-08-04&sr=b&scid=5a54deb0-a21e-5d52-a84d-a711bd1c63a5&skoid=0da8417a-a4c3-4a19-9b05-b82cee9d8868&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-07-28T18%3A05%3A18Z&ske=2025-07-29T18%3A05%3A18Z&sks=b&skv=2024-08-04&sig=e%2BZFD0h%2BhnXD5M%2BEGLITZqwayQPk%2Bg8NOhu8WIYcqqg%3D"
+                src="https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-cb54-622f-91fc-832ea8b509df/raw?se=2025-09-30T16%3A25%3A39Z&sp=r&sv=2024-08-04&sr=b&scid=42040613-f1c3-5a2b-a3d2-b848c61709e5&skoid=0b778285-7b0b-4cdc-ac3b-fb93e8c3686f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-09-30T12%3A29%3A03Z&ske=2025-10-01T12%3A29%3A03Z&sks=b&skv=2024-08-04&sig=wkaWy4um7E3Sh3QNEcgND1hx8hYRpW7K38NTkjezgNM%3D"
                 alt="EZMALL Logo"
                 class="logo-image"
               />

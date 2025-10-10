@@ -42,13 +42,13 @@
                                     <div class="card flex-fill">
                                         <div class="card-body">
                                             <div class="d-flex flex-column align-items-center text-center">
-                                                <img src="https://rypuop.stripocdn.email/content/guids/CABINET_cffa413c5ccab048888fec6cc485b815f8f80028a73882101227ae6949ec8f11/images/387321979_687594463281792_7574468668499025541_n.jpg"
+                                                <img src="../../../assets/images/avatars/avatar-11.png"
                                                     style="width: 140px; height: 140px;" alt="Admin"
                                                     class="rounded-circle p-1 bg-primary">
                                                 <div class="mt-3">
                                                     <h4>{{ profile.ho_va_ten }}</h4>
                                                     <p class="text-secondary mb-1">Khách Hàng</p>
-                                                    <p class="text-muted font-size-sm">32 Xuân Diệu, Hải Châu,
+                                                    <p class="text-muted font-size-sm"> Hải Châu,
                                                         Đà Nẵng</p>
                                                 </div>
                                             </div>

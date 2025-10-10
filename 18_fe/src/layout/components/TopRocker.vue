@@ -4,7 +4,7 @@
 		<nav class="navbar navbar-expand">
 			<div class="topbar-logo-header">
 				<div class="">
-					<img src="../../assets/images/logo-icon.png" class="logo-icon" alt="logo icon">
+					<img src="../../assets/images/products/logoezmall.jpg.png" class="logo-icon" alt="logo icon">
 				</div>
 				<div class="">
 					<h4 class="logo-text">Admin</h4>
@@ -360,9 +360,9 @@
 			<div class="user-box dropdown">
 				<a class="d-flex align-items-center nav-link dropdown-toggle dropdown-toggle-nocaret" href="#"
 					role="button" data-bs-toggle="dropdown" aria-expanded="false">
-					<img src="https://dzfullstack.com/assets/images/logo-img.png" class="user-img" alt="user avatar">
+					<img src="../../assets/images/products/logoezmall.jpg.png" class="user-img" alt="user avatar">
 					<div class="user-info ps-3">
-						<p class="user-name mb-0">DZFullStack</p>
+						<p class="user-name mb-0">EZMALL</p>
 						<p class="designattion mb-0">Admin</p>
 					</div>
 				</a>

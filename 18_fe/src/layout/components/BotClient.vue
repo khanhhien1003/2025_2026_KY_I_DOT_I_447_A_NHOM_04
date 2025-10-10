@@ -36,11 +36,11 @@
                 <div class="row mt-3">
                     <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
                         <h6 class="text-uppercase fw-bold">
-                            DZFullStack</h6>
+                            EZMALL</h6>
                         <hr class=" mt-0 d-inline-block mx-auto"
                             style="width: 60px; background-color: #7c4dff; height: 2px" /><br>
                         <div class="text-center mb-2">
-                            <img src="https://dzfullstack.com/assets/images/logo-img.png" class="img-fluid"
+                            <img src="https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-cb54-622f-91fc-832ea8b509df/raw?se=2025-09-30T16%3A25%3A39Z&sp=r&sv=2024-08-04&sr=b&scid=42040613-f1c3-5a2b-a3d2-b848c61709e5&skoid=0b778285-7b0b-4cdc-ac3b-fb93e8c3686f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-09-30T12%3A29%3A03Z&ske=2025-10-01T12%3A29%3A03Z&sks=b&skv=2024-08-04&sig=wkaWy4um7E3Sh3QNEcgND1hx8hYRpW7K38NTkjezgNM%3D" class="img-fluid"
                                 style="width: 100px; height: auto;" alt="">
                         </div>
                         <p>
@@ -87,8 +87,8 @@
                         <h6 class="text-uppercase fw-bold">Contact</h6>
                         <hr class="mb-4 mt-0 d-inline-block mx-auto"
                             style="width: 60px; background-color: #7c4dff; height: 2px" />
-                        <p><i class="fas fa-home mr-3"></i>32 Xuân Diệu, Hải Châu, Đà Nẵng</p>
-                        <p><i class="fas fa-envelope mr-3"></i> dzfullstack@gmai.com</p>
+                        <p><i class="fas fa-home mr-3"></i>Hải Châu, Đà Nẵng</p>
+                        <p><i class="fas fa-envelope mr-3"></i> ezmall@gmai.com</p>
                         <p><i class="fas fa-phone mr-3"></i> + 0905523543</p>
                         <p><i class="fas fa-print mr-3"></i> + 0376659652</p>
                     </div>
@@ -97,7 +97,7 @@
         </section>
         <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2)">
             © 2024 Copyright:
-            <a class="text-white" href="/">DZFullStack Team</a>
+            <a class="text-white" href="/">EZMALL Team</a>
         </div>
     </footer>
 </template>

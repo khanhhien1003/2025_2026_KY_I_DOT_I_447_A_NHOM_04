@@ -1,10 +1,9 @@
-<template><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-    
+<template>
     <header>
         <div class="topbar d-flex align-items-center">
             <nav class="navbar navbar-expand">
                 <div class="topbar-logo-header d-flex align-items-center">
-                    <img src="https://img.pikbest.com/png-images/technical-retail-shop-e-shop-shop-chat-logo-online-shop-logo-vector-logo-design_1737852.png!w700wp" class="rounded-circle p-1 " style="width: 70px;"
+                    <img src="../../assets/images/products/logoezmall.jpg.png" class="rounded-circle p-1 " style="width: 70px;"
                         alt="logo icon">
                     <h4 class="mt-3 ms-2">Nhóm 9</h4>
                 </div>
@@ -41,7 +40,7 @@
                     <div class="user-box dropdown">
                         <a class="d-flex align-items-center nav-link dropdown-toggle dropdown-toggle-nocaret" href="#"
                             role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                            <img src="../../assets/images/avatars/avatar-2.png" class="user-img" alt="user avatar">
+                            <img src="../../assets/images/products/logoezmall.jpg.png" class="user-img" alt="user avatar">
                             <div class="user-info ps-3">
                                 <p class="user-name mb-0">{{ name_kh }}</p>
                                 <p class="designattion mb-0">Khách Hàng</p>

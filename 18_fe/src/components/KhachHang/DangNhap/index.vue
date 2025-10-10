@@ -4,7 +4,7 @@
       <div class="card-body p-4">
         <!-- Section du logo optimisée -->
         <div class="logo-container">
-          <img src="https://sdmntprwestus2.oaiusercontent.com/files/00000000-36b4-61f8-88a1-fb5aae2cf469/raw?se=2025-07-28T17%3A44%3A30Z&sp=r&sv=2024-08-04&sr=b&scid=b7da7ec7-d3da-55e2-ad1e-eaf0b894531b&skoid=732f244e-db13-47c3-bcc7-7ee02a9397bc&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-07-27T18%3A54%3A28Z&ske=2025-07-28T18%3A54%3A28Z&sks=b&skv=2024-08-04&sig=HcDI%2BKD31ZTRLDb/pTICw7neOOWoW8XkjX8QEWkPqzs%3D" 
+          <img src="../../../assets/images/products/logoezmall.jpg.png" 
                alt="EZMALL Logo" 
                class="logo-image">
         </div>
